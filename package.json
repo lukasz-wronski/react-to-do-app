@@ -4,7 +4,7 @@
   "description": "A simple To-Do List App",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcin-kochanek/react-js.git"
+    "url": "git+https://github.com/marcin-kochanek/react-to-do-app.git"
   },
   "author": {
     "name": "Marcin Kochanek"
