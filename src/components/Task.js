@@ -9,7 +9,6 @@ const Task = (props) => (
         //props.handleDeleteTask(props.taskText);
         e.target.parentElement.firstChild.className = 'widget__item--checked';
         e.target.className = 'button button--checked';
-        console.log(localStorage.getItem('tasks'));
       }}
     >
     </button>
